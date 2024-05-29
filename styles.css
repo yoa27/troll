@@ -40,6 +40,11 @@ body {
     opacity: 0;
     transition: opacity 1s ease-in-out;
 }
+.hidden-content svg {
+    width: 80%;
+    height: auto;
+}
+
 
 button {
     margin-top: 20px;
